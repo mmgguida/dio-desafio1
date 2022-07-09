@@ -1,0 +1,16 @@
+Esse é um passo a passo para geração de um Token de Acesso Pessoal no GitHub. 
+
+Esse token será utilizado na hora da senha.
+
+Passo a Passo no GitHub:
+
+1.No canto esquerdo da tela, clique na setinha para baixo, em seguida clique em Settings
+2.No canto direito, lá em baixo, clique em Developer Settings
+3.Clique em Personal Acess Tokens
+4.Clique em Generate New Token
+5.Adicione um nome e uma data de expiração ao seu Token para maior segurança.
+6.Marque a opção REPO
+7.Clique em Generate Token 
+8.Importante! Não se esqueça de copiar seu código token e salvar em um local seguro no computador. Você não conseguirá ver o código novamente. 
+
+No GitBash, quando for dar seu git push, será necessário colocar na aba que abrir seu nome de usuário do GitHub assim como o seu Token. 
